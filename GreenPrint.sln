@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GreenPrintApp", "GreenPrintApp\GreenPrintApp.vcxproj", "{0816DCAD-319E-4151-B251-D3AE692681FE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GreenPrintMonitor", "GreenPrintMonitor\GreenPrintMonitor.vcxproj", "{39EE8B74-6097-4363-8422-456EC17EAD22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0816DCAD-319E-4151-B251-D3AE692681FE}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0816DCAD-319E-4151-B251-D3AE692681FE}.Debug|Win32.Build.0 = Debug|Win32
+		{0816DCAD-319E-4151-B251-D3AE692681FE}.Release|Win32.ActiveCfg = Release|Win32
+		{0816DCAD-319E-4151-B251-D3AE692681FE}.Release|Win32.Build.0 = Release|Win32
+		{39EE8B74-6097-4363-8422-456EC17EAD22}.Debug|Win32.ActiveCfg = Debug|Win32
+		{39EE8B74-6097-4363-8422-456EC17EAD22}.Debug|Win32.Build.0 = Debug|Win32
+		{39EE8B74-6097-4363-8422-456EC17EAD22}.Release|Win32.ActiveCfg = Release|Win32
+		{39EE8B74-6097-4363-8422-456EC17EAD22}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
